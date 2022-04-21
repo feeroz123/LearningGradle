@@ -1,6 +1,7 @@
 # From https://github.com/github/gitignore/blob/master/Gradle.gitignore
 .gradle
 /build/
+/.idea/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -49,6 +50,8 @@ hs_err_pid*
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
 .idea/uiDesigner.xml
+.idea/compiler.xml
+.idea/misc.xml
 
 # Gradle:
 .idea/gradle.xml
